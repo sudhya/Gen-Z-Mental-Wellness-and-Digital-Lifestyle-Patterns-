@@ -63,4 +63,4 @@ The complete project documentation is available in the Documentation folder.
 
 👤 Author :
 Dhivya K
-💼 Aspiring Data Analyst 📊 Power BI | Excel | SQL | Python 🌍 Passionate about Data Analytics and Web Developer.
+💼 Aspiring Data Analyst 📊 Power BI | Excel | SQL | Python 🌍 Passionate about Data Analytics.
